@@ -10,10 +10,20 @@ Frontend
 2. if any issue vulnerabilities run this command `npm audit fix`
 3. run this command `npm run dev`
 
-Tampilan
+Run Project
+1. npm run dev
+2. php artisan serve
+
+Project Feature
+- Coverage by unit test
+
+- UI
 Login
 ![alt text](public/screenshoot/login.png)
 
-Project
+Project Management
 ![alt text](public/screenshoot/project.png)
 
+Tasks Management
+
+Users Management
